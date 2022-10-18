@@ -3,7 +3,7 @@ My name is Gavin Skehan
 Computer Science & IT student
 I am a current student of University of Galway. I have a passion for coding and developing my skills further. I love to work of projects and run through leetcode when i'm not studying. I have lots of experience in C, JavaScript, HTML and CSS.* 
 🌍  I'm based in Galway/Laois* 
-✉️  You can contact me at [skehan.gavin2@gmail.com](mailto:skehan.gavin2@gmail.com)* 
+✉️  You can contact me at [skehan.gavin2@gmail.com](mailto:skehan.gavin2@gmail.com)/ g.skehan1@nuigalway.ie* 
 🧠  I'm learning Java
 
 ### Skills
