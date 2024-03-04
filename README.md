@@ -54,7 +54,7 @@ Are you intrigued by my coding odyssey? Let's connect and explore the endless po
 
 Let's connect and collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GavinSkehan-blue)](https://www.linkedin.com/in/Gavin-Skehan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GavinSkehan-blue)](https://www.linkedin.com/in/gavin-skehan/)
 [![GitHub](https://img.shields.io/badge/GitHub-Skehan0-brightgreen)](https://github.com/Skehan0)
 
 
