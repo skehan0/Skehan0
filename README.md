@@ -10,8 +10,6 @@ Dedicated and aspiring Computer Science & IT enthusiast in my 3rd year at the es
 From the early days of my academic journey, I've been captivated by the world of programming. The thrill of bringing lines of code to life and crafting elegant solutions to complex problems is what fuels my drive. I believe that the best way to learn is by doing, and that's why I am deeply engrossed in hands-on projects that challenge me to grow. 
 
 ### What Sets Me Apart?
-🎮 Gaming to Code: With a penchant for both gaming and coding, I've ventured into the realm of games development using Java. The creative challenge of designing immersive virtual worlds and implementing interactive gameplay has been an exciting crossover of my interests. 
-
 🌐 Versatility in Tech: My tech toolkit is diverse and dynamic. I have proficiently wielded the power of Object-Oriented Programming (Java), ventured into the intricate landscapes of C, woven interactive web experiences with JavaScript, HTML, and CSS, and explored the realm of enhancing user interfaces. 
 
 ### Academic Odyssey 
