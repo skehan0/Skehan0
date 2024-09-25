@@ -48,9 +48,6 @@ Are you intrigued by my coding odyssey? Let's connect and explore the endless po
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   </a>
