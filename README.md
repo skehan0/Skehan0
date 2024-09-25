@@ -4,8 +4,8 @@ Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 ## 4th Year Computer Science and IT Student | Aspiring Software Engineer
 
 As a final-year Computer Science student at the University of Galway, I’m dedicated to developing cutting-edge software solutions. With a passion for all things code, I'm continually exploring ways to push the boundaries of technology and deliver impactful results. 🚀
-About Me
 
+### About Me
 Currently wrapping up my degree, I’ve built a strong foundation in computer science through hands-on project work and in-depth theoretical learning. During 3rd year, I completed an 8-month professional internship as a Full Stack AI Intern at Accenture’s R&D Center, The Dock, in Dublin. There, I gained invaluable experience in AI-driven solutions and played an integral role in the development of real-world software.
 What Sets Me Apart?
 
