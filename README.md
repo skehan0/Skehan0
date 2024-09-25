@@ -1,26 +1,25 @@
 Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gavin Skehan
 ====================================================================================================================================
 
-4th Year Computer Science and IT Student
-----------------------------------------
+4th Year Computer Science and IT Student | Aspiring Software Engineer
 
-Dedicated and aspiring software engineer in my 4th year at the University of Galway. Passionate about all things code, I'm on a perpetual journey of honing my skills and pushing the boundaries of innovation. 🚀
+As a final-year Computer Science student at the University of Galway, I’m dedicated to developing cutting-edge software solutions. With a passion for all things code, I'm continually exploring ways to push the boundaries of technology and deliver impactful results. 🚀
+About Me
 
-### About Me
-I'm currently completing my final year of study, where I've gained hands-on experience through various college projects, backed by a strong theoretical foundation. Additionally, I’ve completed 8 months of professional experience as a Full Stack AI Intern at Accenture's Global Flagship R&D Center, The Dock, in Dublin.
+Currently wrapping up my degree, I’ve built a strong foundation in computer science through hands-on project work and in-depth theoretical learning. During 3rd year, I completed an 8-month professional internship as a Full Stack AI Intern at Accenture’s R&D Center, The Dock, in Dublin. There, I gained invaluable experience in AI-driven solutions and played an integral role in the development of real-world software.
+What Sets Me Apart?
 
-### What Sets Me Apart?
-🌐 During my internship, I had the opportunity to contribute to impactful projects by delivering features and working in Agile, cross-functional teams. My exposure spans across AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Data Analytics, backend development, Fast APIs, Postman, and so much more!
+🌟 During my time at Accenture, I worked on high-impact projects in a collaborative Agile environment, consistently delivering key features. I gained exposure to various technologies including:
 
-### What's Next? 
+    Artificial Intelligence & Machine Learning: Worked with LLMs, RAG, and data analytics to build intelligent systems.
+    Backend Development: Hands-on experience with Fast APIs, Postman, and cloud integration.
+    Cross-Functional Teamwork: Collaborated with data scientists, engineers, and product teams to deliver scalable, high-performance solutions.
 
-=This year, I’m working on an exciting final year project in the field of Artificial Intelligence. It will integrate the skills and technologies I’ve learned so far, and I look forward to showcasing my knowledge while exploring new areas like advanced machine learning, data analytics, and software development.
+### What’s Next?
+I’m currently working on an ambitious final-year project that leverages my AI and software development skills. This project is designed to not only highlight my technical abilities but also explore new technologies such as advanced machine learning and data analytics. My aim is to create something innovative and practical, with a focus on real-world applications.
 
-### Let's Connect! 
-Are you intrigued by my coding odyssey? Let's connect and explore the endless possibilities of innovation together. Whether it's a chat about the latest tech trends, a collaborative project, or a great cup of coffee, I'm just a message away! 📬 
-
-- 📫 How to reach me **g.skehan1@universityofgalway.ie**
-
+### Let’s Connect!
+    📫 You can reach me at: g.skehan1@universityofgalway.ie
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
