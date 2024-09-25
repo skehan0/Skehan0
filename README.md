@@ -1,7 +1,7 @@
 Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gavin Skehan
 ====================================================================================================================================
 
-## 4th Year Computer Science and IT Student | Aspiring Software Engineer
+## 4th Year Computer Science and IT Student | Aspiring Software Engineer | Former Full Stack AI Intern
 
 As a final-year Computer Science student at the University of Galway, I’m dedicated to developing cutting-edge software solutions. With a passion for all things code, I'm continually exploring ways to push the boundaries of technology and deliver impactful results. 🚀
 
