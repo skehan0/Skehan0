@@ -7,8 +7,8 @@ As a final-year Computer Science student at the University of Galway, I’m dedi
 
 ### About Me
 Currently wrapping up my degree, I’ve built a strong foundation in computer science through hands-on project work and in-depth theoretical learning. During 3rd year, I completed an 8-month professional internship as a Full Stack AI Intern at Accenture’s R&D Center, The Dock, in Dublin. There, I gained invaluable experience in AI-driven solutions and played an integral role in the development of real-world software.
-What Sets Me Apart?
 
+### What Sets Me Apart?
 🌟 During my time at Accenture, I worked on high-impact projects in a collaborative Agile environment, consistently delivering key features. I gained exposure to various technologies including:
 
     Artificial Intelligence & Machine Learning: Worked with LLMs, RAG, and data analytics to build intelligent systems.
