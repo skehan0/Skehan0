@@ -11,12 +11,46 @@ Currently wrapping up my degree, I’ve built a strong foundation in computer sc
 ### What Sets Me Apart?
 🌟 During my time at Accenture, I worked on high-impact projects in a collaborative Agile environment, consistently delivering key features. I gained exposure to various technologies including:
 
-    Artificial Intelligence & Machine Learning: Worked with LLMs, RAG, and data analytics to build intelligent systems. 
-    Backend Development: Hands-on experience with Fast APIs, Postman, and cloud integration.
-    Cross-Functional Teamwork: Collaborated with data scientists, engineers, and product teams to deliver scalable, high-performance solutions.
+Skills & Experience
+
+    Artificial Intelligence & Machine Learning:
+    Worked with LLMs, RAG, and data analytics to build intelligent systems capable of processing and interpreting complex data, integrating NLP techniques for text data processing.
+
+    Backend Development:
+    Hands-on experience with FastAPI for building high-performance APIs, Postman for testing, and integrating backend services with cloud platforms like Azure for scalable deployment.
+
+    Frontend Development:
+    Successfully transferred backend functionality to the frontend, ensuring seamless interaction between client-side and server-side logic to enhance user experience.
+
+    Testing & Debugging:
+    Utilized unittest to test features before submitting pull requests, identifying and fixing bugs through debugging tools like breakpoints, ensuring robust, error-free code.
+
+    Data Science:
+    Applied pandas and other data science libraries to analyze large datasets, working with Excel for data manipulation and creating similarity score algorithms to measure data relationships.
+
+    Databases & Data Retrieval:
+    Experience with MongoDB for NoSQL storage and Qdrant for managing vector embeddings, optimizing performance for machine learning and AI models.
+
+    Cloud Services & Deployment:
+    Worked with Azure to deploy applications and manage cloud infrastructure, ensuring scalability and reliability of web services and AI models.
+
+    Version Control & CI/CD:
+    Proficient in Git and GitHub for version control and experience with CI/CD pipelines to automate testing and deployment processes.
+
+    Cross-Functional Teamwork:
+    Collaborated with data scientists, engineers, and product teams to deliver scalable, high-performance solutions, ensuring that projects met both technical and business requirements.
+
+    Presenting:
+    Presented in front of audineces ranging from 10-100 people during the internship at the Q3 Dock Townhall, Makethon, Hackathon alongside smaller intern projects and workshops.
+
+    Award:
+    - Funniest Intern of The Year (1st out of 50)
 
 ### What’s Next?
 I’m currently working on my final-year project that leverages my AI and software development skills. This project is designed to not only highlight my technical abilities but also explore new technologies such as Large Language Models, RAG and data analytics. My aim is to create something innovative and practical, with a focus on real-world applications.
+
+### Interests / Final Year Project
+I have a strong passion for financial markets, including stock trading and cryptocurrency. My curiosity drives me to explore various aspects of finance, from market trends and algorithmic trading to investment strategies. In my final year project, I am deepening my expertise in trading systems and stock analysis by developing an AI-Analysis Tool designed to provide insights into stocks. This project has allowed me to enhance my agile development skills while building a scalable app with a FastAPI backend and a React frontend. I have integrated reliable APIs to fetch, clean, and store financial data.
 
 ### Let’s Connect!
     📫 You can reach me at: g.skehan1@universityofgalway.ie
