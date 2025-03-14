@@ -11,12 +11,12 @@ Currently wrapping up my degree, I’ve built a strong foundation in computer sc
 ### What Sets Me Apart?
 🌟 During my time at Accenture, I worked on high-impact projects in a collaborative Agile environment, consistently delivering key features. I gained exposure to various technologies including:
 
-    Artificial Intelligence & Machine Learning: Worked with LLMs, RAG, and data analytics to build intelligent systems.
+    Artificial Intelligence & Machine Learning: Worked with LLMs, RAG, and data analytics to build intelligent systems. 
     Backend Development: Hands-on experience with Fast APIs, Postman, and cloud integration.
     Cross-Functional Teamwork: Collaborated with data scientists, engineers, and product teams to deliver scalable, high-performance solutions.
 
 ### What’s Next?
-I’m currently working on an ambitious final-year project that leverages my AI and software development skills. This project is designed to not only highlight my technical abilities but also explore new technologies such as advanced machine learning and data analytics. My aim is to create something innovative and practical, with a focus on real-world applications.
+I’m currently working on my final-year project that leverages my AI and software development skills. This project is designed to not only highlight my technical abilities but also explore new technologies such as Large Language Models, RAG and data analytics. My aim is to create something innovative and practical, with a focus on real-world applications.
 
 ### Let’s Connect!
     📫 You can reach me at: g.skehan1@universityofgalway.ie
