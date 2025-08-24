@@ -1,12 +1,12 @@
 Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gavin Skehan
 ====================================================================================================================================
 
-## 4th Year Computer Science and IT Student | Aspiring Software Engineer | Former Full Stack AI Intern
+## Graduate Computer Science Student | Software Engineer@Accenture | AI
 
-As a final-year Computer Science student at the University of Galway, I’m dedicated to developing cutting-edge software solutions. With a passion for all things code, I'm continually exploring ways to push the boundaries of technology and deliver impactful results. 🚀
+I’m dedicated to developing cutting-edge software solutions. With a passion for all things code, I'm continually exploring ways to push the boundaries of technology and deliver impactful results. 🚀
 
 ### About Me
-Currently wrapping up my degree, I’ve built a strong foundation in computer science through hands-on project work and in-depth theoretical learning. During 3rd year, I completed an 8-month professional internship as a Full Stack AI Intern at Accenture’s R&D Center, The Dock, in Dublin. There, I gained invaluable experience in AI-driven solutions and played an integral role in the development of real-world software.
+I’ve built a strong foundation in computer science through hands-on project work and in-depth theoretical learning. During 3rd year, I completed an 8-month professional internship as a Full Stack AI Intern at Accenture’s R&D Center, The Dock, in Dublin. There, I gained invaluable experience in AI-driven solutions and played an integral role in the development of real-world software.
 
 ### What Sets Me Apart?
 🌟 During my time at Accenture, I worked on high-impact projects in a collaborative Agile environment, consistently delivering key features. I gained exposure to various technologies including:
@@ -44,12 +44,14 @@ Skills & Experience
     Presented in front of audineces ranging from 10-100 people during the internship at the Q3 Dock Townhall, Makethon, Hackathon alongside smaller intern projects and workshops.
 
     Award:
-    - Funniest Intern of The Year (1st out of 50)
+    - Funniest Intern of The Year (out of 50)
 
 ### What’s Next?
-I’m currently working on my final-year project that leverages my AI and software development skills. This project is designed to not only highlight my technical abilities but also explore new technologies such as Large Language Models, RAG and data analytics. My aim is to create something innovative and practical, with a focus on real-world applications.
+Continue developing existing personal projects while diving into new areas.
 
 ### Interests / Final Year Project
+Final-year project: leverages my AI and software development skills. This project is designed to highlight my technical abilities but also explore new technologies such as Large Language Models, RAG and data analytics. My aim is to create something innovative and practical, with a focus on real-world applications.
+
 I have a strong passion for financial markets, including stock trading and cryptocurrency. My curiosity drives me to explore various aspects of finance, from market trends and algorithmic trading to investment strategies. In my final year project, I am deepening my expertise in trading systems and stock analysis by developing an AI-Analysis Tool designed to provide insights into stocks. This project has allowed me to enhance my agile development skills while building a scalable app with a FastAPI backend and a React frontend. I have integrated reliable APIs to fetch, clean, and store financial data.
 
 ### Let’s Connect!
