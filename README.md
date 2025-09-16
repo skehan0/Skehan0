@@ -50,12 +50,12 @@ Skills & Experience
 Continue developing existing personal projects while diving into new areas.
 
 ### Interests / Final Year Project
-Final-year project: leverages my AI and software development skills. This project is designed to highlight my technical abilities but also explore new technologies such as Large Language Models, RAG and data analytics. My aim is to create something innovative and practical, with a focus on real-world applications.
+Final-year project: leverage my AI and software development skills. This project is designed to highlight my technical abilities but also explore new technologies such as Large Language Models, RAG and data analytics. My aim is to create something innovative and practical, with a focus on real-world applications.
 
-I have a strong passion for financial markets, including stock trading and cryptocurrency. My curiosity drives me to explore various aspects of finance, from market trends and algorithmic trading to investment strategies. In my final year project, I am deepening my expertise in trading systems and stock analysis by developing an AI-Analysis Tool designed to provide insights into stocks. This project has allowed me to enhance my agile development skills while building a scalable app with a FastAPI backend and a React frontend. I have integrated reliable APIs to fetch, clean, and store financial data.
+I have a strong passion for financial markets, including stock trading and cryptocurrency. My curiosity drives me to explore various aspects of finance, from market trends and algorithmic trading to investment strategies. In my final year project, I am deepening my expertise in trading systems and stock analysis by developing an AI-Analysis Tool designed to provide insights into stocks. This project has allowed me to enhance my agile development skills while building a scalable app with a FastAPI backend and a React frontend. I have integrated reliable APIs to fetch, clean, and store financial data in a unstructed MongoDB Database. 
 
 ### Let’s Connect!
-    📫 You can reach me at: g.skehan1@universityofgalway.ie
+    📫 You can reach me at: skehan.gavin2@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
