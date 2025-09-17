@@ -1,12 +1,14 @@
 Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gavin Skehan
 ====================================================================================================================================
 
-## Graduate Computer Science Student | Software Engineer@Accenture | AI
+## Graduate Computer Science Student (1.1) | SWE @Accenture The Dock | AI Engineering 
 
 I’m dedicated to developing cutting-edge software solutions. With a passion for all things code, I'm continually exploring ways to push the boundaries of technology and deliver impactful results. 🚀
 
 ### About Me
 I’ve built a strong foundation in computer science through hands-on project work and in-depth theoretical learning. During 3rd year, I completed an 8-month professional internship as a Full Stack AI Intern at Accenture’s R&D Center, The Dock, in Dublin. There, I gained invaluable experience in AI-driven solutions and played an integral role in the development of real-world software.
+
+Currently working on cutting edge AI Engineering @Accenture, exploring areas in Project Management, Backend Development, DevOps Engineering, AI Engineering, Data Engineering. 
 
 ### What Sets Me Apart?
 🌟 During my time at Accenture, I worked on high-impact projects in a collaborative Agile environment, consistently delivering key features. I gained exposure to various technologies including:
@@ -26,13 +28,13 @@ Skills & Experience
     Utilized unittest to test features before submitting pull requests, identifying and fixing bugs through debugging tools like breakpoints, ensuring robust, error-free code.
 
     Data Science:
-    Applied pandas and other data science libraries to analyze large datasets, working with Excel for data manipulation and creating similarity score algorithms to measure data relationships.
+    Applied pandas and other data science libraries to analyze large datasets, working with Excel for data manipulation and creating similarity score algorithms to measure data                 relationships.
 
     Databases & Data Retrieval:
     Experience with MongoDB for NoSQL storage and Qdrant for managing vector embeddings, optimizing performance for machine learning and AI models.
 
-    Cloud Services & Deployment:
-    Worked with Azure to deploy applications and manage cloud infrastructure, ensuring scalability and reliability of web services and AI models.
+    DevOps Engineering: Cloud Services & Deployment:
+    Worked with Azure to deploy applications and manage cloud infrastructure, ensuring scalability and reliability of web services and AI models. Completed course in Docker, understanding      the use cases and how to create images and containerize components of an application.
 
     Version Control & CI/CD:
     Proficient in Git and GitHub for version control and experience with CI/CD pipelines to automate testing and deployment processes.
@@ -47,14 +49,26 @@ Skills & Experience
     - Funniest Intern of The Year (out of 50)
 
 ### What’s Next?
-Continue developing existing personal projects while diving into new areas.
+Begin my career as a full-time SWE, solving real-world problems for clients and business. Continue developing existing personal projects while diving into new areas. 
+
+Consistent growth and learning, taking on new challenges in a variety of areas.
 
 ### Interests / Final Year Project
-Final-year project: leverage my AI and software development skills. This project is designed to highlight my technical abilities but also explore new technologies such as Large Language Models, RAG and data analytics. My aim is to create something innovative and practical, with a focus on real-world applications.
+Final-year project: leverage my AI and software development skills. This project is designed to highlight my technical abilities in full stack app development but also explore new technologies such as Large Language Models, RAG and data analytics. My aim is to create something innovative and practical, with a focus on real-world applications.
+Tech Stack:
+- NodeJs
+- FastAPI
+- MongoDB
+- Python
+- JavaScript
+- Ollama
+- Docker
 
-I have a strong passion for financial markets, including stock trading and cryptocurrency. My curiosity drives me to explore various aspects of finance, from market trends and algorithmic trading to investment strategies. In my final year project, I am deepening my expertise in trading systems and stock analysis by developing an AI-Analysis Tool designed to provide insights into stocks. This project has allowed me to enhance my agile development skills while building a scalable app with a FastAPI backend and a React frontend. I have integrated reliable APIs to fetch, clean, and store financial data in a unstructed MongoDB Database. 
+I have a strong passion for financial markets, including stock trading and cryptocurrency. I am constantly learning how to read charts using chart indicators and financial reports using my foundation in Accounting and Business. 
+My curiosity drives me to explore various aspects of finance, from market trends and algorithmic trading to investment strategies. In my final year project, I am deepening my expertise in trading systems and stock analysis by developing an AI-Analysis Tool designed to provide insights into stocks. This project has allowed me to enhance my agile development skills while building a scalable app. I have integrated reliable APIs to fetch financial data before automating the cleaning cleaning and storing in a MongoDB Database. 
 
 ### Let’s Connect!
+Feel free to contact me for enquiries or if you are a student looking for advice, I would be more than happy to help :)
     📫 You can reach me at: skehan.gavin2@gmail.com
 
 <h3 align="left">Connect with me:</h3>
