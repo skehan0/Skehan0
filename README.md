@@ -8,7 +8,7 @@ I’m dedicated to developing cutting-edge software solutions. With a passion fo
 ### About Me
 I’ve built a strong foundation in computer science through hands-on project work and in-depth theoretical learning. During 3rd year, I completed an 8-month professional internship as a Full Stack AI Intern at Accenture’s R&D Center, The Dock, in Dublin. There, I gained invaluable experience in AI-driven solutions and played an integral role in the development of real-world software.
 
-Currently working on cutting edge AI Engineering @Accenture, exploring areas in Project Management, Backend Development, DevOps Engineering, AI Engineering, Data Engineering. 
+Currently working on cutting edge AI Engineering @Accenture, from Backend Development, AI Engineering and DevOps. 
 
 ### What Sets Me Apart?
 🌟 During my time at Accenture, I worked on high-impact projects in a collaborative Agile environment, consistently delivering key features. I gained exposure to various technologies including:
@@ -63,6 +63,8 @@ Tech Stack:
 - JavaScript
 - Ollama
 - Docker
+
+Built an AI Trading Agent that functions as a personal market researcher. It uses news APIs combined with sentiment analysis to identify and summarize the most relevant AI and market news, then adds contextual insights and actionable recommendations using prompt engineering. The complete workflow is orchestrated with Langraph, with automation via cron jobs and email delivery through Mailgun, ensuring daily market insights are delivered directly to your inbox. Powered by Perplexity LLM, this agent saves hours of manual research each week, helping focus on execution and strategy.
 
 I have a strong passion for financial markets, including stock trading and cryptocurrency. I am constantly learning how to read charts using chart indicators and financial reports using my foundation in Accounting and Business. 
 My curiosity drives me to explore various aspects of finance, from market trends and algorithmic trading to investment strategies. In my final year project, I am deepening my expertise in trading systems and stock analysis by developing an AI-Analysis Tool designed to provide insights into stocks. This project has allowed me to enhance my agile development skills while building a scalable app. I have integrated reliable APIs to fetch financial data before automating the cleaning cleaning and storing in a MongoDB Database. 
