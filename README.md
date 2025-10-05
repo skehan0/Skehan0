@@ -71,4 +71,3 @@ I’m a **Computer Science graduate (1:1)** passionate about building **AI-drive
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GavinSkehan-blue)](https://www.linkedin.com/in/gavin-skehan/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Skehan0-brightgreen)](https://github.com/Skehan0)  
-[![StackOverflow](https://img.shields.io
