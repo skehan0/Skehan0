@@ -67,13 +67,8 @@ I’m a **Computer Science graduate (1:1)** passionate about building **AI-drive
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Python-logo-notext.svg" alt="Python ML" width="40" height="40"/>
 </p>
 
-
 ---
 
 ## 📫 Connect with Me
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg" alt="Stack Overflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GavinSkehan-blue)](https://www.linkedin.com/in/gavin-skehan/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Skehan0-brightgreen)](https://github.com/Skehan0)  
