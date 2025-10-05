@@ -1,7 +1,7 @@
 Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gavin Skehan
 ====================================================================================================================================
 
-## Graduate Computer Science Student (1.1) | SWE @Accenture The Dock | AI Engineering 
+## Graduate Computer Science Student (1.1) | SWE @Accenture | AI Engineering 
 
 I’m dedicated to developing cutting-edge software solutions. With a passion for all things code, I'm continually exploring ways to push the boundaries of technology and deliver impactful results. 🚀
 
