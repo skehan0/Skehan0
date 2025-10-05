@@ -62,9 +62,8 @@ I’m a **Computer Science graduate (1:1)** passionate about building **AI-drive
 ### AI & Machine Learning
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/96390409?s=200&v=4" alt="LangChain" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/140326764?s=200&v=4" alt="Ollama" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Python-logo-notext.svg" alt="Python ML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/keon/awesome-nlp/master/images/langchain-logo.png" alt="LangChain" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ollama/ollama-icon.svg" alt="Ollama" width="40" height="40"/>
 </p>
 
 ---
@@ -72,3 +71,4 @@ I’m a **Computer Science graduate (1:1)** passionate about building **AI-drive
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GavinSkehan-blue)](https://www.linkedin.com/in/gavin-skehan/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Skehan0-brightgreen)](https://github.com/Skehan0)  
+[![StackOverflow](https://img.shields.io
