@@ -6,7 +6,7 @@ I’m a **Computer Science graduate (1:1)** passionate about building **AI-drive
 ---
 
 ## 💻 Experience
-**Full Stack AI Engineer Intern | Accenture The Dock**  
+**AI Engineer Intern | Accenture The Dock**  
 - Built **semantic search pipelines** with **LLMs, RAG, and vector embeddings**, deployed to client environments.  
 - Designed **similarity scoring algorithms** at chunk and document levels for improved search relevance.  
 - Contributed to **full-stack AI projects**, from backend API development (FastAPI, Node.js) to frontend integration (React).  
