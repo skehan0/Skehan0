@@ -1,5 +1,5 @@
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-## Gavin Skehan | AI Engineer | SWE @ Accenture The Dock  
+## Gavin Skehan | SWE @ Accenture The Dock  
 
 I’m a **Computer Science graduate (1:1)** passionate about building **AI-driven software solutions**, full-stack applications, and data-driven systems. I enjoy turning complex technical challenges into practical, scalable tools that deliver real-world impact. 🚀  
 
