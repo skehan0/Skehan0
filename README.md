@@ -1,7 +1,7 @@
 ## Gavin Skehan
 Software Engineer @ Accenture The Dock
 
-I work on applied AI systems and backend services, with experience taking ideas from prototype to production. My focus is on building systems that are reliable, understandable, and useful — not just technically interesting.
+I work on applied AI systems and backend services, with experience taking ideas from prototype to production. My focus is on building systems that are reliable, understandable, and useful, not just technically interesting.
 
 Most of my work sits at the intersection of machine learning, backend engineering, and data, with a particular interest in financial and decision-support systems.
 
@@ -46,7 +46,7 @@ AI-driven analysis platform for retail traders.
 
 ### Notes
 
-I’m interested in roles where I can work close to real systems, real data, and real users — especially where technical decisions have clear business or operational impact.
+I’m interested in roles where I can work close to real systems, real data, and real users, especially where technical decisions have clear business or operational impact.
 
 ---
 
