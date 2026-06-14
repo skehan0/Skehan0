@@ -1,7 +1,7 @@
 ## Gavin Skehan
-Software Engineer @ Accenture The Dock
+Software Engineer
 
-I work on applied AI systems and backend services, with experience taking ideas from prototype to production. My focus is on building systems that are reliable, understandable, and useful, not just technically interesting.
+Building scalable applications for production and real users
 
 Most of my work sits at the intersection of machine learning, backend engineering, and data, with a particular interest in financial and decision-support systems.
 
@@ -9,7 +9,7 @@ Most of my work sits at the intersection of machine learning, backend engineerin
 
 ### Experience
 
-**Technology Analyst / AI Engineer Intern — Accenture The Dock**
+** Full Stack Engineer Intern **
 - Designed and deployed semantic search systems using LLMs, retrieval-augmented generation (RAG), and vector embeddings in client environments.
 - Implemented document- and chunk-level similarity scoring to improve retrieval relevance and consistency.
 - Built backend APIs using FastAPI and Node.js, with frontend integrations in React.
